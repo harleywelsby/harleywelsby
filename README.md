@@ -6,6 +6,7 @@ Hi! I'm Harley, a Bachelor of Engineering (Hons) Student based in Wellington, NZ
 I'm always looking to meet people and love to engage with the Engineering and Computer Science community, so feel free to reach out to me at any of the links below:
 <br/><br/>
 <a href="https://www.linkedin.com/in/harleywelsby/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" width=50 height=50/><a/>
+<a href="mailto:harleywelsby9@gmail.com" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Gmail_Icon_%282013-2020%29.svg/2048px-Gmail_Icon_%282013-2020%29.svg.png" width=50 height=50/><a/>
  
 <!--
 **harleywelsby/harleywelsby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
