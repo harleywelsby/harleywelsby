@@ -1,4 +1,4 @@
-
+![banner](githubBanner.png "Banner")
 
 ## Harley Welsby
 Hi! I'm Harley, a Bachelor of Engineering (Hons) Student based in Wellington, NZ. I'm also a full-stack web developer with experience across a range of front-end technologies (JavaScript, CSS, HTML, React.js, Next.js), experience with some back-end languages (Java, Python, C#) and junior dev knowledge of SQL database systems.
