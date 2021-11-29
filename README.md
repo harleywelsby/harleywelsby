@@ -8,9 +8,6 @@ I'm always looking to meet people and love to engage with the Engineering and Co
 <a href="https://www.linkedin.com/in/harleywelsby/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" width=50 height=50/><a/>
 <a href="mailto:harleywelsby9@gmail.com" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Gmail_Icon_%282013-2020%29.svg/2048px-Gmail_Icon_%282013-2020%29.svg.png" width=50 height=50/><a/>
  
- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harleywelsby)](https://github.com/anuraghazra/github-readme-stats)
- 
 <!--
 **harleywelsby/harleywelsby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
