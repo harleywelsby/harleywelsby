@@ -2,25 +2,7 @@
 
 ## Harley Welsby
 Hi! I'm Harley, a Bachelor of Engineering (Hons) Student based in Wellington, NZ. 
-I'm also a junior full-stack developer with experience across a range of technologies:
-
-Front-End:
-* JavaScript
-* TypeScript
-* CSS
-* HTML
-* React.js
-* Next.js
-
-Back-End:
-* Java
-* Python
-* C#/.NET
-* C/C++
-
-Other Notable Skills:
-* AWS (Going for my Cloud Practitioner Certification in 2022)
-* SQL
+I'm also a junior full-stack developer with experience across a range of technologies, but primarily C#/.NET, Java, Python & JavaScript/HTML/CSS
 
 I'm always looking to meet people and love to engage with the Engineering and Computer Science community, so feel free to reach out to me at any of the links below:
 <br/><br/>
