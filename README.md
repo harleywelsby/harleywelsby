@@ -8,9 +8,7 @@ I'm always looking to meet people and love to engage with the Engineering and Co
 <br/><br/>
 <a href="https://www.linkedin.com/in/harleywelsby/" target="_blank">
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" width=40 height=40/>
-<a/>
- 
-<a href="mailto:harleywelsby9@gmail.com" target="_blank">
+<a/><a href="mailto:harleywelsby9@gmail.com" target="_blank">
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Gmail_Icon_%282013-2020%29.svg/2048px-Gmail_Icon_%282013-2020%29.svg.png" width=50 height=50/>
 <a/>
  
