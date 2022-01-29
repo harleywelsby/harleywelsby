@@ -1,8 +1,8 @@
 ![banner](githubBanner.png "Banner")
 
 ## Harley Welsby
-Hi! I'm Harley, a Bachelor of Engineering (Hons) Student based in Wellington, NZ. 
-I'm also a junior full-stack developer with experience across a range of technologies, but primarily .NET, Java, Python & JavaScript/HTML/CSS
+Hi! I'm Harley, a Full-Stack .NET Developer from New Zealand.
+I'm also a Bachelor of Engineering (Hons) Student in my third year, majoring in Software Engineering.
 
 I'm always looking to meet people and love to engage with the Engineering and Computer Science community, so feel free to reach out to me at any of the links below:
 <br/><br/>
