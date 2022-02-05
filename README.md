@@ -1,8 +1,8 @@
-![banner](githubBanner.png "Banner")
+<!--![banner](githubBanner.png "Banner")-->
 
 ## Harley Welsby
 Hi! I'm Harley, a Full-Stack .NET Developer from New Zealand.
-I'm also a Bachelor of Engineering (Hons) Student in my third year, majoring in Software Engineering.
+I'm also studying Bachelor of Engineering (Hons) in my third year, majoring in Software Engineering.
 
 I'm always looking to meet people and love to engage with the Engineering and Computer Science community, so feel free to reach out to me at any of the links below:
 <br/><br/>
