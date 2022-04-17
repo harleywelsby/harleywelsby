@@ -2,7 +2,9 @@
 
 ## Harley Welsby
 Hi! I'm Harley, a Full-Stack .NET Developer from New Zealand.
-I'm also studying Bachelor of Engineering (Hons) in my third year, majoring in Software Engineering.
+<br/>
+I'm also studying a Bachelor of Engineering (Hons), majoring in Software Engineering.
+<br/><br/>
 
 I'm always looking to meet people and love to engage with the Engineering and Computer Science community, so feel free to reach out to me at the link below:
 <br/><br/>
