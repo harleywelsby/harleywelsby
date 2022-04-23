@@ -14,4 +14,4 @@ I'm always looking to meet people and love to engage with the Engineering and Co
  
 <br/><br/>
  <!--Language stats link used: https://github.com/anuraghazra/github-readme-stats-->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harleywelsby&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harleywelsby&layout=compact)](https://github.com/anuraghazra/github-readme-stats)-->
