@@ -11,7 +11,6 @@ I'm always looking to meet people and love to engage with the Engineering and Co
 <a href="https://www.linkedin.com/in/harleywelsby/" target="_blank">
  ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 <a/>
- 
-<br/><br/>
- <!--Language stats link used: https://github.com/anuraghazra/github-readme-stats-->
+
+<!--Language stats link used: https://github.com/anuraghazra/github-readme-stats-->
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harleywelsby&layout=compact)](https://github.com/anuraghazra/github-readme-stats)-->
