@@ -21,5 +21,5 @@ I'm always looking to meet people and love to engage with the Engineering and Co
 
 ### Currently I'm Learning:
 * AWS Cloud Practitioner Content
-* Cypress Automation Testing
-* Better React Practices
+* UI/UX Best Practices
+* More and more about React.js
