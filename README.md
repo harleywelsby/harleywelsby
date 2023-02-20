@@ -9,17 +9,7 @@ I'm always looking to meet people and love to engage with the Engineering and Co
  ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 <a/>
 
-### Language/Technology Experience:  
-<div display="inline-block">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width=50 height=50 />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width=50 height=50 />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width=50 height=50 />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width=50 height=50 />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width=50 height=50 />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width=50 height=50 />
-</div>
-
 ### Currently I'm Learning:
 * AWS Cloud Practitioner Content
-* UI/UX Best Practices
-* More and more about React.js
+* UI/UX Design and Best Practices
+* Advanced React.js, Next.js and more
