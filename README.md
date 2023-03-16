@@ -10,6 +10,6 @@ I'm always looking to meet people and love to engage with the Engineering and Co
 <a/>
 
 ### Currently I'm Learning:
-* AWS Cloud Practitioner Content
+* Advanced React.js, Next.js stuff
 * UI/UX Design and Best Practices
-* Advanced React.js, Next.js and more
+* Discord bot development with Discord.js
