@@ -3,7 +3,6 @@
 I'm a Full-Stack Web Developer based in Aotearoa, New Zealand.
   
 I'm passionate about designing and developing web applications with React.js and .NET. 
-I always have a few projects going in my spare time, and right now I'm working on a blog site for my coin collecting hobby, which you can find here:
-- https://www.nihonumismatics.net/
+I always have a few projects going in my spare time, and right now I'm working on a blog site for my coin collecting hobby, which you can find here: https://www.nihonumismatics.net/
 
 I'm always looking to meet people and love to engage with the Engineering and Computer Science community, so feel free to reach out to me on my [LinkedIn](https://www.linkedin.com/in/harleywelsby/).
